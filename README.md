@@ -43,11 +43,24 @@ Busco uma oportunidade de **Estágio em Desenvolvimento de Software** (preferenc
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📊 Estatísticas GitHub
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauaSDS&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaSDS&layout=compact&langs_count=7&theme=radical" />
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=KauaSDS&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=KauaSDS&theme=github-dark-blue"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaSDS&layout=compact&langs_count=8&theme=github_dark"
+  />
 </p>
 
 ## 📫 Como me encontrar
