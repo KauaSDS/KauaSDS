@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/followers/KauaSDS?label=Seguidores&style=social">
 </p>
 
-Sou um entusiasta da tecnologia, atualmente cursando o 7º semestre de Ciência da Computação na Universidade Federal do Ceará (Campus Crateús). Tenho uma base sólida em lógica e estrutura de dados, e estou focado em me tornar um Desenvolvedor Full Stack, com forte bagagem em back-end.
+Sou um entusiasta da tecnologia, atualmente cursando o 8º semestre de Ciência da Computação na Universidade Federal do Ceará (Campus Crateús). Tenho uma base sólida em lógica e estrutura de dados, no momento estudando java, spring boot. Estou focado em me tornar um Desenvolvedor Full Stack, com forte bagagem em back-end.
 
 ---
 
